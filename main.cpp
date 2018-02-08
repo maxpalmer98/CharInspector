@@ -21,7 +21,7 @@ int main()
   //in all other cases...
   else
   {
-  cout<<letter<<" ?! Pssh. What are you talking about?\n";
+  cout<<letter<<"?! Pssh. What are you talking about?\n";
   }
   //no matter what they enter...
   int ascii;
